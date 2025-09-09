@@ -142,3 +142,9 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-list {
+  margin: 8px 0 0 32px; /* Increased left margin for more indentation */
+  padding-left: 0;
+  list-style-type: disc;
+}
